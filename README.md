@@ -1,4 +1,4 @@
-Project Chiron: An Event-Driven 2D-Mesh NoC for Spatio-Temporal Coincidence Detection in Neuroprosthetics
+# Project Chiron: An Event-Driven 2D-Mesh NoC for Spatio-Temporal Coincidence Detection in Neuroprosthetics
 
 1.1 The Problem: The Edge Interconnect Bottleneck in Advanced Prosthetics
 Next-generation bionic prosthetics and electronic skin (e-skin) require hundreds to thousands of artificial mechanoreceptors (tactile, slip, strain, and thermal sensors) distributed across fingertips, palm, and joints.
